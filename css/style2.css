@@ -12,7 +12,7 @@ ul{
     justify-content: right;
     margin: 0 50px 0px 750px;
     padding: 0 10px;
-    width: 650px;
+    width: 350px;
 
 }
 .nav_item{
@@ -27,7 +27,7 @@ ul{
     display: inline-block;
     margin: 350px 0 0 0 ;
     text-align: left;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 200px;
 }
 .relative {
@@ -36,14 +36,14 @@ ul{
     left: 0px;
 }
 .box{
-    width: 1000px;
+    width: 850px;
     height: 200px;
     background-color: #0000ae;
 }
 .absolute {
     position: absolute;
     top: -350px;
-    left: 750px;
+    left: 450px;
 }
 img{
     width: 700px;
