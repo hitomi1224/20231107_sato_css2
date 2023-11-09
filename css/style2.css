@@ -48,10 +48,9 @@ ul{
 .absolute {
     position: absolute;
     top: -350px;
-    left: 820px;
+    left: 70%;
 }
 img{
-    
     height: 450px;
 }
 
